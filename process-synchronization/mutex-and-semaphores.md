@@ -1,5 +1,7 @@
 # Mutex and Semaphores
 
+Mutexes and Semaphores are process synchronization tools.
+
 **Mutexes** are any kind of lock that provide mutual exclusion. How it is done so depends upon the specific implementation used.
 
 Even Spin Locks with Peterson's solution and atomic hardware locks are mutexes.
