@@ -6,9 +6,10 @@
 
 ## Process Synchronization
 
-* [Critical Section Problem](process-synchronization/critical-section-problem.md)
-* [Spin Locks](process-synchronization/spin-locks.md)
+* [Critical Section and Spin Locks](process-synchronization/spin-locks.md)
 * [Mutex and Semaphores](process-synchronization/mutex-and-semaphores.md)
+* [Priority Inversion](process-synchronization/priority-inversion.md)
+* [Deadlock](process-synchronization/deadlock.md)
 
 ## Memory Management
 

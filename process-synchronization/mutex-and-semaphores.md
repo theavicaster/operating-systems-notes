@@ -47,7 +47,7 @@ class Semaphore{
 
 A binary semaphore is a sleeping lock used for signalling, with `count = 1`, while a counting semaphore has `count >=1`
 
-Unlike mutexes, semaphores may not provide mutual exclusion. This is because a process that has called `wait()`on the CS may have`signal()` be called by a different process. In mutexes, only the process that acquires the lock may release it.
+Unlike mutexes, semaphores may not provide mutual exclusion. This is because a process that has called `wait()` on the CS may have `signal()` be called by a different process. In mutexes, only the process that acquires the lock may release it.
 
  
 
