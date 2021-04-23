@@ -17,7 +17,8 @@
 
 ## Memory Management
 
----
-
-* [Address Binding](address-binding.md)
+* [Address Translation](memory-management/address-binding.md)
+* [Contiguous Memory Allocation](memory-management/contiguous-memory-allocation.md)
+* [Non-contiguous Memory Allocation](memory-management/non-contiguous-memory-allocation.md)
+* [Secondary Storage as Virtual Memory](memory-management/secondary-storage-as-virtual-memory.md)
 

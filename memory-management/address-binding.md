@@ -1,4 +1,4 @@
-# Address Binding
+# Address Translation
 
 The CPU can only access two things - its' registers and the main memory.
 
