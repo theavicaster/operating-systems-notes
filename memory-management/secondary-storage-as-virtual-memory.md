@@ -13,7 +13,7 @@ A **page fault** is when we require a page to be in main memory, but the part of
 
 Swapping is the removal of a process \(all it's parts\) from memory to secondary
 
-**Thrashing** is the situation where we bring in too many processes \(degree of multiprogramming high\). 
+**Thrashing** is the situation where we bring in too many processes \(degree of multiprogramming high\). [https://anshika-bhargava0202.medium.com/a-note-on-thrashing-ccb87ef7754f](https://anshika-bhargava0202.medium.com/a-note-on-thrashing-ccb87ef7754f)
 
 To stop thrashing - reduce page faults - or look into keeping locality of pages i.e spatially or temporally pages together in memory. CPU will spend all it's time bringing pages in and out, hence CPU utilization will decrease.
 
